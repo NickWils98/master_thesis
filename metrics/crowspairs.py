@@ -1,5 +1,5 @@
 """
-Code used from Biased-Rulers: https://github.com/iPieter/biased-rulers/tree/master
+Code from Biased-Rulers: https://github.com/iPieter/biased-rulers/tree/master
 """
 
 import os
